@@ -2,35 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Sunil Kumar</title>
-    <link>//localhost:1313/authors/</link>
-      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 03:05:37 -0800</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>//localhost:1313/authors/</link>
+      <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>//localhost:1313/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//localhost:1313/authors/unimax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/unimax/</guid>
-      <description>&lt;p&gt;I am a Master of Computer Science Student at the University of Victoria. I have 3 years of software development experience with software product companies including Drishti-Soft Solutions aka Ameyo and Zillious Solutions in India. I have worked on new stand-alone product development projects as well as projects in a team for high priority customer, this sometimes includes understanding customer requirements directly from customers. As I am a passionate gamer, I would love to be part of game development industry.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | Sunil Kumar</title>
+    <link>/tags/ai/</link>
+      <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 02:27:03 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+    </image>
+    
+    <item>
+      <title>DQN Agent playing Coinrun</title>
+      <link>/project/coinrun-with-dqn/</link>
+      <pubDate>Wed, 20 Feb 2019 02:27:03 -0800</pubDate>
+      <guid>/project/coinrun-with-dqn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sunil Kumar</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 03:05:37 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Dota 2 Draft Based Win Prediction</title>
+      <link>/project/dota2winprediction/</link>
+      <pubDate>Fri, 20 Dec 2019 03:05:37 -0800</pubDate>
+      <guid>/project/dota2winprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo Matchmaking using open-match</title>
+      <link>/project/matchmaking-using-open-match/</link>
+      <pubDate>Sun, 20 Oct 2019 03:05:37 -0800</pubDate>
+      <guid>/project/matchmaking-using-open-match/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DQN Agent playing Coinrun</title>
+      <link>/project/coinrun-with-dqn/</link>
+      <pubDate>Wed, 20 Feb 2019 02:27:03 -0800</pubDate>
+      <guid>/project/coinrun-with-dqn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

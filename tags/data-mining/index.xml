@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining | Sunil Kumar</title>
+    <link>/tags/data-mining/</link>
+      <atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Mining</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 03:05:37 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Data Mining</title>
+      <link>/tags/data-mining/</link>
+    </image>
+    
+    <item>
+      <title>Dota 2 Draft Based Win Prediction</title>
+      <link>/project/dota2winprediction/</link>
+      <pubDate>Fri, 20 Dec 2019 03:05:37 -0800</pubDate>
+      <guid>/project/dota2winprediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
